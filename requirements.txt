@@ -1,0 +1,8 @@
+customtkinter
+google-api-python-client
+google-auth-oauthlib
+qrcode[pil]
+pillow
+pymupdf
+python-docx
+pywin32; sys_platform == "win32"
